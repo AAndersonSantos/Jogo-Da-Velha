@@ -1,6 +1,6 @@
 <h1 align="center"># Jogo Da Velha </h1>
 
-<h2 align="center"><a href=""># Clique Aqui Para Jogar #</a></h2>
+<h2 align="center"><a href="https://aandersonsantos.github.io/Jogo-Da-Velha/"># Clique Aqui Para Jogar #</a></h2>
 
 <h3 align="center">📸Screenshot</h3>
 <p>
@@ -17,7 +17,7 @@
 ```
 #Para fazer clone do repositório ultilizando git use a linha de comando abaixo:
 
-git clone
+git clone https://github.com/AAndersonSantos/Jogo-Da-Velha.git
 
 ```
 
@@ -25,4 +25,4 @@ git clone
 
 ## 📝**Licença**
 
-[MIT]()
+[MIT](https://github.com/AAndersonSantos/Jogo-Da-Velha/blob/main/LICENSE)
